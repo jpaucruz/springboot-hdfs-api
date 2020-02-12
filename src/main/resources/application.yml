@@ -1,0 +1,4 @@
+hdfs:
+  configuration:
+    server: hdfs://localhost:8020/
+    user: hdfs
